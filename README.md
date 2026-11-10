@@ -1,6 +1,6 @@
 # nearme-statistics-stub
 
-A tiny, open-source, do-nothing Android stub app.
+A tiny, open-source, do-nothing Android stub app, created with AI assistance and inspired by this XDA Forums thread (CbIP, OnePlus 13 / OxygenOS 15), which first described the log-spam problem and the stub-app workaround.
 
 **Current version: 1.6** (versionCode 7). See [BUILD_LOG.md](BUILD_LOG.md)
 for what changed in v1.6 and its verification output.
