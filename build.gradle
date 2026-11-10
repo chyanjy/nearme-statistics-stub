@@ -1,0 +1,11 @@
+// Root Gradle build file (optional). The APK in this repo was built
+// without Gradle, with the manual aapt2/d8 steps in build.sh, because
+// that needs no Gradle download. If you prefer Gradle, use the
+// standard Android Gradle Plugin setup with these values:
+//   namespace 'com.nearme.statistics.rom'
+//   compileSdk 34, minSdk 29, targetSdk 34
+//   applicationId 'com.nearme.statistics.rom'
+//   versionCode 7, versionName '1.6'
+tasks.register('noop') {
+    doLast { println 'See build.sh for the no-Gradle build.' }
+}
