@@ -1,6 +1,6 @@
 
 [Uploading README.md…]()
-# nearme-statistics-stub
+# NearMe Statistics Stub · OPPO / 一加数据基础服务占位器
 
 A tiny, open-source, do-nothing Android stub app, created with AI assistance and inspired by [this XDA Forums thread](https://xdaforums.com/t/solved-a-lot-of-apps-try-to-call-missing-com-nearme-statistics-rom-service.4743261/) (CbIP, OnePlus 13 / OxygenOS 15), which first described the log-spam problem and the stub-app workaround.
 
